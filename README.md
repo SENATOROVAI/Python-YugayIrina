@@ -1,1 +1,1 @@
-# Python-YugayIrina
+# I love Python
