@@ -1,0 +1,17 @@
+05.07.23 (lesson 1)
+
+1. Pull Requests "Senatorov"
+2. Fork от "Senatorov" на "YugayIrina"
+3. Merg своих коммитов (изменила файл README.MD--> написала I love Python-->save commits)
+4. Добавили  организацию: github---> your profile---> edit profile--->Добавили организацию "Senatorov"-->save
+5. Скачали VS code--> установили программы
+6. В vs code создали виртуальное окружение:
+   * этот компьютер-->документы-->Github-->Python-YugayIrina (и в поисковой строке вводу cmd и жму enter)-->появится консоль--> в консоле ввожу команды: 
+python -m venv venv  (enter) # второе слово venv-это название виртуального окружения
+venv\Scripts(после \ нажимаю tab на клавиатуре и появится слово слово Scripts)\activate(после \ нажимаю tab на клавиатуре и появится слово слово activate)(enter)
+
+7. в VScode создали git ignore: 
+   * этот компьютер-->документы-->Github-->Python-YugayIrina---> создать текстовый файл с названием .gitignore--> зайти в него--> попадаю в VS code (Как-то потом в кошечке всё схлопнулось-попало в gitignore :) )
+
+8. Где я увижу домашнии задания?
+  * кошечка (github)-->history-->нажимаю вкладку "Fetch origin"
