@@ -3,7 +3,10 @@
 Алгоритмы:
 
 1)https://codeforces.com/
+https://codeforces.com/problemset/problem/4/A
 
 2)https://projecteuler.net/archives
+https://projecteuler.net/problem=1
 
 3)https://leetcode.com/
+https://leetcode.com/problems/palindrome-number/
