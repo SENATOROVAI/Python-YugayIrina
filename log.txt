@@ -272,6 +272,76 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme#code-mode-
    * и др.
 Подробное описание множеств по ссылке: https://habr.com/ru/articles/516858/ 
 
+08.08.2023 (Lesson 11)
+1. Math in english
+    * All entries are in my copybook!
+    * Added a lot of new words to my math-vocabulary.
+    * All words were wrighten with transcriptions 
+    * For pronunciation --> https://wooordhunt.ru/
+    * For translate from russian to english (and vise versa) --> https://translate.yandex.ru/
+    * For new words --->https://www.multitran.com/
+    
+11.08.2023 (Lesson 12)
+1. Алгоритмы и структуры данных:
+    * Понятие Биг-О натоции
+    * Два основных вида Биг-О натоции (Time/SpaceComplexity)
+    * Понятие SpaceComplexity
+    * Понятие TimeComplexity
+2. Для практики и знаний ---> https://www.freecodecamp.org
+3. Лекции записываю в тетради
+
+15.08.2023 (Lesson 13)
+1. Написали опредение модулей, пакетов
+2. Anaconda:
+    * написали опредение Anaconda
+    * сделали установку ( https://www.anaconda.com/download )
+3. Библиотека Numpy:
+    * написали определение
+    * https://numpy.org/doc/stable/ ---> раздел меню dokumentation---> getting started
+    * информация: https://blog.skillfactory.ru/glossary/numpy/
+4. Библиотека Pandas:
+    * Понятие Pandas и его возможности (https://habr.com/ru/articles/196980/)
+    * информация: https://blog.skillfactory.ru/glossary/pandas/
+    * в Pandas существует 2 основные структуры хранения данных: Series и DataFrame. (https://habr.com/ru/articles/196980/)
+5. Структура хранения данных в Pandad-DataFrame:
+    * определение DataFrame (https://rpubs.com/pro_shad95/635126)    
+    * что из себя представляет DataFrame (https://pandas.pydata.org/docs/getting_started/intro_tutorials/01_table_oriented.html#min-tut-01-tableoriented)
+6. csv (от англ. Comma-Separated Values — значения, разделённые запятыми):
+    * как выглядит csv-файл (https://manifold.net/doc/mfd9/example__import_csv_and_create_a_drawing.htm)
+    * csv-файл используют для создания и сохранения таблиц
+7. Мода и медиана:
+    * как рассчитать медиану и моду (https://ru.wikihow.com/найти-среднее-значение,-моду-и-медиану)
+8. Функция mode() в Python (https://pythonpip.ru/osnovy/funktsiya-mode-v-python-modulya-statistics):
+    * написали определние данной функции
+    * как работает функция mode
+
+18.08.2023 (Lesson 14)
+1. Лекцию записываю в тетради
+2. Понятие знака phi (фи). Знак=перечеркнутый круг
+3. Понятие "Диаграммы Венна" (Venn Diagram)
+4. Теория множеств:
+    * Определение sets
+    * Знак "вхождение"
+    * Знак "пересечение"
+    * Знак "объединение"
+    * Нарисовали диаграмму Венна
+
+22.08.2023 (Lesson 15)
+1. Продолжаем изучать numpy и pandas https://numpy.org/numpy-tutorials/content/tutorial-ma.html
+2. В VS подключили Anaconda (Lesson15-->правый верхний угод-->выбираю "Base Python 3.11.4/`/anaconda3/python.exe.....")
+    Numpy:
+3. Numpy написан на языке "C", поэтому очень быстро работает
+4.Зашли на сайт https://numpy.org --> раздел "документация"
+5. В VS практика с numpy: импортировали numpy: import numpy as np--> вывели список
+6. Записали, что знаки ! и  % используются только для jupyter-запуск команды
+    Pandas:
+7. На сайте https://pandas.pydata.org/ представлены все возмодности pandas
+8. Pandas позволяет визуализировать код с помощью таблиц: строки (row) и столбцы (column)
+9. Разводиность диаграмм -это "Ящик с усами". Данная диаграмм позволяет нам увидеть данные схематично: 
+верхнюю и нижнюю границу, верхний и нижний квартиль, а так же   и медиану
+10. Для Pandas необходимо понимать линейнуб алгебру, т.к. предстоит работать с массивами
+
+
 
 
 
